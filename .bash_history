@@ -1,0 +1,2 @@
+sh
+do-release-upgrade
